@@ -20,7 +20,6 @@
             </div>
           </div>
         </section>
-        
 
         <!-- Experience Section -->
         <section class="col">
@@ -39,7 +38,6 @@
             </div>
           </div>
         </section>
-      
       </main>
     </div>
   </div>
@@ -63,7 +61,6 @@ export default {
           description:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         },
-       
       ],
       experienceData: [
         {
@@ -121,7 +118,7 @@ main.row {
 
 .col header.title {
   font-family: helvetica;
-  color: #1a73e8; 
+  color: #1a73e8;
   padding: 0px 0px 20px 30px;
 }
 
@@ -153,18 +150,18 @@ main.row {
   border-radius: 50%;
   right: calc(100% + 22px);
   top: 0;
-  background-color: #1a73e8; 
+  background-color: #1a73e8;
   border: 2px solid white;
 }
 
 .box h4 {
   position: relative;
-  color: #1a73e8; 
+  color: #1a73e8;
 }
 
 .box h3 {
-  font-size: 16px; 
-  padding: 8px 0px 6px; 
+  font-size: 16px;
+  padding: 8px 0px 6px;
   font-family: helvetica;
   color: #444;
 }
@@ -172,7 +169,7 @@ main.row {
 .box p {
   line-height: 1.2;
   color: #666;
-  font-size: 14px; 
+  font-size: 14px;
 }
 
 @media (max-width: 768px) {

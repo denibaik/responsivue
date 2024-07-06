@@ -53,18 +53,16 @@
                   class="d-flex flex-column align-items-center text-center rounded-4"
                 >
                   <img
-                    src="../assets/images/fotoProfile.jpg"
+                    src="../assets/images/22_11_4625.jpg"
                     alt="Admin"
                     class="rounded-circle"
                     width="150"
                   />
                   <div class="mt-3">
-                    <h4>Faisa Aditya Athallah</h4>
-                    <p class="text-secondary mb-1">
-                      Web Developer - Graphics Designer
-                    </p>
+                    <h4>Deni Anang Kurniawan</h4>
+                    <p class="text-secondary mb-1">Web Developer</p>
                     <p class="text-muted font-size-sm">
-                      Sleman, D.I. Yogyakarta
+                      Kotagede, D.I. Yogyakarta
                     </p>
                     <button class="btn btn-primary">Download CV</button>
                   </div>
@@ -122,7 +120,7 @@
                       ></path></svg
                     >Github
                   </h6>
-                  <span class="text-secondary">faisaaditya</span>
+                  <span class="text-secondary">denibaik</span>
                 </li>
                 <li
                   class="list-group-item d-flex justify-content-between align-items-center flex-wrap"
@@ -145,7 +143,7 @@
                       ></path></svg
                     >Twitter
                   </h6>
-                  <span class="text-secondary">@adityaAtha</span>
+                  <span class="text-secondary">@denibezerra</span>
                 </li>
                 <li
                   class="list-group-item d-flex justify-content-between align-items-center flex-wrap"
@@ -177,7 +175,7 @@
                       <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg
                     >Instagram
                   </h6>
-                  <span class="text-secondary">faisaaditya</span>
+                  <span class="text-secondary">denibezerra</span>
                 </li>
                 <li
                   class="list-group-item d-flex justify-content-between align-items-center flex-wrap"
@@ -200,7 +198,7 @@
                       ></path></svg
                     >Facebook
                   </h6>
-                  <span class="text-secondary">Faisa Aditya</span>
+                  <span class="text-secondary">Deni Anang Kurniawan</span>
                 </li>
               </ul>
             </div>
@@ -215,12 +213,11 @@
     </div>
     <div class="container my-5">
       <div class="text-center p-3" style="background-color: tr">
-    © 2024 Copyright :
-    <a class="text-white" >Faisaaditya</a>
-  </div>
-<footer class="bg-dark text-center text-white">
-  </footer>
-  </div>
+        © 2024 Copyright :
+        <a class="text-white">denibaik</a>
+      </div>
+      <footer class="bg-dark text-center text-white"></footer>
+    </div>
   </section>
 </template>
 

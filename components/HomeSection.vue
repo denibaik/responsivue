@@ -4,14 +4,13 @@
       <div class="card-body">
         <h2 class="card-title">About Me</h2>
         <p class="text-start">
-          Hello! I'm Faisa Aditya, currently pursuing a Bachelor's degree in
-          Informatics at AMIKOM Yogyakarta and working as a freelance graphic
-          designer. While I haven't yet worked professionally in web
-          development, I have skills in design using CorelDRAW, Photoshop, and
-          Adobe Illustrator. My web development skills include HTML and CSS at
-          an intermediate level, and I'm currently learning JavaScript. I'm also
-          exploring frameworks like Bootstrap and Vue.js. I enjoy engaging in
-          creative projects and learning new things every day!
+          Hello! I'm Deni Anang Kurniawan, currently pursuing a Bachelor's
+          degree in Informatics at AMIKOM Yogyakarta and driver Ojol. While I
+          haven't yet worked professionally in web development, I have skills in
+          design using Visual Studio Code. My web development skills include
+          HTML and CSS at an intermediate level, and I'm currently learning
+          JavaScript. I'm also exploring frameworks like Bootstrap and Vue.js. I
+          enjoy engaging in creative projects and learning new things every day!
         </p>
       </div>
     </div>

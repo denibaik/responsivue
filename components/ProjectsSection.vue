@@ -1,7 +1,6 @@
 <template>
   <section class="projects">
     <h2>My Projects</h2>
-    
   </section>
 </template>
 
